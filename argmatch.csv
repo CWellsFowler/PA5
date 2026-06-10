@@ -1,0 +1,4 @@
+"type","example"
+"Partial","cat('Hello','World',se='-')"
+"Positional","cat('Hello','World','-')"
+"Exact","cat('Hello','World',sep='-')"
